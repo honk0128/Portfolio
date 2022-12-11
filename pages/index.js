@@ -143,7 +143,7 @@ export default function Home() {
             <a target="blank" href="https://www.instagram.com/seunghyeon8370/">
               <img
                 className="transition max-w-full ease-in-out duration-1000 hover:scale-110"
-                src="/logos/Instagram.png"
+                src="/logos/instagram.png"
                 alt="Instagram"
               />
             </a>
